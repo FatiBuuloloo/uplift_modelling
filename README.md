@@ -1,3 +1,3 @@
 # uplift_modelling
 
-kaggle: [Kaggle Link}(https://www.kaggle.com/datasets/davinwijaya/customer-retention)
+kaggle: [Kaggle Link](https://www.kaggle.com/datasets/davinwijaya/customer-retention)
